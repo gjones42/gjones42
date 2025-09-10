@@ -1,5 +1,5 @@
-#Greg Jones
-##Software Developer
+# Greg Jones
+## Software Developer
 
 Outside Interests
 * Basketball
