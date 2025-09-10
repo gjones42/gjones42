@@ -1,4 +1,11 @@
-## Hi there 👋
+#Greg Jones
+##Software Developer
+
+Outside Interests
+* Basketball
+* NBA
+* Russian Literature (English Translation)
+* Many others
 
 <!--
 **gjones42/gjones42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
